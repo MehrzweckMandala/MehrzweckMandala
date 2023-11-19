@@ -42,8 +42,8 @@ Feel free to reach out to me for collaboration, learning opportunities, or just 
 
 📫 **Contact Me:**
 
-- [LinkedIn](www.linkedin.com/in/margenberg)
-- [XING](www.xing.com/profile/Marcel_Margenberg)
+- [LinkedIn](https://www.linkedin.com/in/margenberg)
+- [XING](https://www.xing.com/profile/Marcel_Margenberg/cv)
 - [Email](mailto:dev.margenberg@gmail.com)
 
 ---
