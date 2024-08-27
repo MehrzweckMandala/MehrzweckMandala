@@ -5,7 +5,7 @@
 
 👨‍💻 **About Me:**
 
-Hello! I'm Marcel, a 34-year-old, (mostly) JavaDev based Germany.
+Moin! I'm Marcel, thrown into the world sometime at the beginning of 1990 (awesome memories, btw), (mostly) a JavaDev based in Germany.
 
 ---
 
