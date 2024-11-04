@@ -1,18 +1,12 @@
+# Hi there, I'm MehrzweckMandala 👋
 
-# Welcome to MehrzweckMandala's GitHub Profile! 👋
+## GitHub Stats
+![MehrzweckMandala's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehrzweckMandala&show_icons=true&theme=radical)
 
----
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MehrzweckMandala&layout=compact&theme=radical)
 
-👨‍💻 **About Me:**
-
-Moin! I'm Marcel, thrown into the world sometime at the beginning of 1990 (awesome memories, btw), (mostly) a JavaDev based in Germany.
-
----
-
-
-📫 **Contact Me:**
-
+## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/margenberg)
-- [Email](mailto:dev.margenberg@gmail.com)
 
----
+Thank you for visiting my profile!
