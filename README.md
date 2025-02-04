@@ -5,7 +5,7 @@
 
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MehrzweckMandala&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MehrzweckMandala&theme=radical)
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/margenberg)
